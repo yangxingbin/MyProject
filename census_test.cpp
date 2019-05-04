@@ -49,7 +49,7 @@ bool writeImage(const char* filename, float32 * dispData, int width, int height)
 
 int main()
 {
-	// read
+	// read image 
 	const char* leftFileName = "(2)L.png";
 	const char* rightFileName = "(2)R.png";
 
